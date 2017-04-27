@@ -1,401 +1,51 @@
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great without the Latest Specials on Your Plan Now with all-new Portrait mode. Learn more and shop now. In-store pickup聽路聽Free next-day
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great the charger time. I have all my I feel that will somewhat much ""used"". i really liked the other two,
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Now with all-new Portrait mode. Learn more and shop now. In-store pickup聽路聽Free next-day
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great for 7. Learn more and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great is Contract on 3%; seller, The delivery only time is extremely well made and it is good , good material,
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great to $25聽路聽Nationwide Network聽路聽No Contract on Your Plan Now with all-new Portrait mode. Learn more and shop now. In-store pickup牱燜ree next-day
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great on Your Own Phone nouse, The Samsung GS7 edge. Available Now. Low Light Camera牱燝ear VR compatible牱燪uad HD AMOLED Display牱燚ual-Pixel Technology
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great it just Upgrade聽路 The Low Light Camera Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Now!
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great a great price. I like this need for my son. The case was great at only service and 5 stars
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great so so well paired on my wrists yet mini that had been weak. I had to try the device to
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great it Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Now! No Contract Display牱燛xpandable Memory The Samsung
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great is perfectly.She just like DualLaser you spend a good job of trusting this product with interchangeable construction, Nokia center. They
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 great and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 great
 Traceback (most recent call last):
   File "sample.py", line 44, in <module>
@@ -406,693 +56,90 @@ Traceback (most recent call last):
     print(model.sample(sess, words, vocab, args.n, args.prime, args.sample, args.pick))
   File "/home/adgen/ml/daves_test_box/word-rnn-tensorflow-all-reviews/model.py", line 130, in sample
     pred = words[sample]
-IndexError: list index out of range
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good was the Latest Smartphones more More On Your Plan牱燦ationwide Network牱燩lans Starting it phone as advertised. I later one feature at
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good on so auto-to-USB off the factory unlocked status. First time I charged it, for your shipping does turn up with
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good is Display牱燛xpandable Memory The Samsung GS7 edge. Available Now. Low Light Camera聽路聽Gear VR compatible聽路聽Quad HD AMOLED Display聽路聽Dual-Pixel Technology Cam The
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good drops! to Huge Savings with the Latest Specials on Offer. Don't Wait! 14 Day Guarantee牱 Limited Time Offer牱 New Line
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good and back Learn more and shop now. In-store pickup牱燜ree next-day delivery Get the Latest Smartphones & Plans for One Low
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good on cablessitting cover...it how angry if i was time to get what you pay for. I have tried purchased 4
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good to $25聽路聽Nationwide Network聽路聽No Contract on Your Plan Now with all-new Portrait mode. Learn more and shop now. In-store pickup牱燜ree next-day
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good I had nothing but it is of new. I would definitely recommend the iphone 4 in one box for this
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good I put a Savings with the Latest Specials on Offer. Don't Wait! 14 Day Guarantee牱 Limited Time Offer牱 New Line
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good it more is Contract on runtastic delivery Get the Latest Smartphones & Plans for One Low Monthly Price. Shop Today
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good and the Latest Smartphones & Plans for One Low Monthly Price. Shop Today & Save! Bring Your Own Phone聽路聽Plans Starting
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good and the Latest Smartphones & Plans for One Low Monthly Price. Shop Now! No Contract on Your Plan牱燦ationwide Network牱燩lans Starting
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good phones on time on Your Plan聽路聽Nationwide Network聽路聽Plans Starting at $25聽路聽Bring Your Own Phone Now with all-new Portrait mode. Learn more
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good will have with very Savings problems with all-new Portrait mode. Learn more and shop now. In-store pickup牱燜ree next-day delivery is
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good I had exactly happy advertised. Now with all-new Portrait mode. Learn more and shop now. In-store pickup牱燜ree next-day delivery The
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good at the Latest Smartphones only Plans for One Low Monthly Price. Shop Now! No Contract on Your Plan牱燦ationwide Network牱燩lans Starting
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good time. I am in that add to this product. Seems to be what they are--Small but why it's big testing
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good on decribes HOGS deleting in the very very well surprised but I lost the return for the phone as long
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good is Display牱燛xpandable Memory The Samsung GS7 edge. Available Now. Low Light Camera聽路聽Gear VR compatible聽路聽Quad HD AMOLED Display聽路聽Dual-Pixel Technology Cam The
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good on Contract on Your Plan Now with all-new Portrait mode. Learn more and shop now. In-store pickup聽路聽Free next-day delivery Get
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good one on time in the time not so tightly instantly to offer that Android. it fits my system is still
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good The Samsung phone 4 not to mention the reviews. I wouldn't recommend this item as an option locked its hard
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good and more more shop shop shop delivery Learn more and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest Smartphones
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good is Contract on 3%; Light few for time Learn more and shop now. In-store pickup聽路聽Free next-day delivery Get the Latest
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 good
 good to $25聽路聽Nationwide & More Fast time. It's very slow no good "Wow! As write buyers while adjusting the phone to
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love to Huge Savings with the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love to Huge Savings with the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love The Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love to Huge Savings with the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
-I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
-name: GeForce GTX 1070
-major: 6 minor: 1 memoryClockRate (GHz) 1.7845
-pciBusID 0000:01:00.0
-Total memory: 7.92GiB
-Free memory: 2.39GiB
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
-I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 1070, pci bus id: 0000:01:00.0)
 love
 love the Latest Specials on Offer. Don't Wait! 14 Day Guarantee聽路 Limited Time Offer聽路 New Line or Upgrade聽路 Savings Until 2018
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
